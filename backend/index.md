@@ -240,15 +240,15 @@ mvn exec:java
                 }
 ## Modelo Conceitual
 
-![Imagem_Do_Modelo_Conceitual](/doc/img/modeloConceitual.png)
+![Imagem_Do_Modelo_Conceitual](./doc/img/modeloConceitual.png)
 
 ## Modelo Físico
 
-![Imagem_Do_Modelo_Fisico](/doc/img/modeloFisico.png)
+![Imagem_Do_Modelo_Fisico](./doc/img/modeloFisico.png)
 
 ## Aplicação
 
-![Imagem_Do_Modelo_Fisico](/doc/img/aplicacao.jpeg)
+![Imagem_Da_Aplicacao](./doc/img/aplicacao.jpeg)
 
 
     
