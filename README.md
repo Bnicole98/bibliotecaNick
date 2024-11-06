@@ -2,13 +2,23 @@
 ## 1.Visão Geral do Projeto
 1.1. Descrição
 
-        O projeto foca em criação de um sistema de biblioteca com funcionalidades de cadastramento
-    de acervo, usuário, empréstimo e devolução de livros.
+        Este projeto visa criar um sistema de biblioteca que atenda às necessidades de administração de livros, usuário e emprestimos
+    oferecendo um serviço eficiente.
 
+        O objetivo principal deste projeto é um sistema que permita o gerenciamento eficiente do acervo de livros, 
+    cadastramento de usuários, funcionalidades de empréstimo e devolução de livros com foco em facilitar a administração de 
+    bibliotecas e garantir um controle preciso das operações diárias.
+        
 1.2. Arquitetura do Sistema
 
-        No projeto utilizou da linguagem de programação Java e MAVEN para controle de 
-    dependências (SPARK, MYSQL CONNECTOR, GSON).
+        A arquitetura do sistema de biblioteca utiliza tecnologias e frameworks para garantir um desenvolvimento
+    eficiente, escalável e sustentável. O projeto utiliza a seu favor o Maven para gerenciamento de dependências 
+    e a construção de projetos Java, Apache Spark e MySQL Connector (via JDBC) são integrados nesta arquitetura
+    para serviços RESTFull e conexão ao banco de dados respectivamente.
+
+        Essa arquitetura aproveita as capacidades de Maven para gerenciamento eficiente de dependências, Spark para responder 
+    e gerenciar as requisições HTTP pelos serviços RESTfull e MySQL Connector para uma comunicação eficaz com o banco de dados. 
+        Esta combinação permite construir um sistema de biblioteca robusto, escalável e fácil de manter.
 
 ## 2. Configuração do Ambiente
 2.1. Requisitos do Sistema
